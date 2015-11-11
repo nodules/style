@@ -1,0 +1,30 @@
+{
+  "name": "jscs-preset-nodules",
+  "version": "0.1.0",
+  "description": "jscs preset for nodules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodules/style.git"
+  },
+  "keywords": [
+    "jscs",
+    "nodules",
+    "styleguide"
+  ],
+  "author": "Vladimir Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nodules/style/issues"
+  },
+  "homepage": "https://github.com/nodules/style#readme",
+  "devDependencies": {
+    "jscs": "^2.5.1"
+  },
+  "peerDependencies": {
+    "jscs": ">=2.0.0"
+  }
+}

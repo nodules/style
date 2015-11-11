@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-nodules",
+  "version": "0.1.1",
+  "description": "eslint config for nodules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodules/style.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "nodules",
+    "styleguide"
+  ],
+  "author": "Vladimir Varankin <nek.narqo@gmail.com> (http://github.com/narqo)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nodules/style/issues"
+  },
+  "homepage": "https://github.com/nodules/style#readme",
+  "devDependencies": {
+    "eslint": "^1.9.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=1.0.0"
+  }
+}
