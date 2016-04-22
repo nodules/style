@@ -19,7 +19,7 @@ module.exports = {
         'eqeqeq': [2, 'allow-null'],
         'global-require': 1,
         'guard-for-in': 2,
-        'key-spacing': [2, { beforeColon: true, afterColon: false }],
+        'key-spacing': [2, { beforeColon: false, afterColon: true }],
         'max-len': [1, 120, 4, { ignoreTrailingComments: true, ignoreUrls: true }],
         'no-caller': 2,
         'no-eval': 2,
