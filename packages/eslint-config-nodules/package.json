@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nodules",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "eslint config for nodules",
   "main": "index.js",
   "scripts": {
