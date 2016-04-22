@@ -1,8 +1,5 @@
 module.exports = {
     'extends': 'eslint:recommended',
-    'ecmaFeatures': {
-        'blockBindings': true // enable let and const
-    },
     'rules': {
         'indent': [2, 4],
         'quotes': [2, 'single'],
