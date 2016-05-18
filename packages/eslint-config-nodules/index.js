@@ -26,7 +26,6 @@ module.exports = {
         'no-extend-native': 2,
         'no-extra-bind': 2,
         'no-invalid-this': 1,
-        'no-magic-numbers': [1, { ignoreArrayIndexes: true }],
         'no-mixed-requires': 1,
         'no-multi-spaces': 2,
         'no-trailing-spaces': 2,
